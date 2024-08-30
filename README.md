@@ -1,16 +1,19 @@
 ## Hi there 👋
 
+I am **Manish Khonde** (Full Stack Developer)💻. I like problem solving, travelling, photography📸
+I ✨ like ✨ to explore new places.
 
-**manishk169/manishk169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Learner. I’m currently learning full stack java.
+- 💬 Ask me about life advice🤣🤣, tech solution 👩‍💻 , traveling ✈️.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## 🤝 Connect with me:
+
+<a href=""><img align="left" src="https://raw.githubusercontent.com/manishk169/manishk169/main/5296501_linkedin_network_linkedin logo_icon.png" alt="manish khonde | LinkedIn" width="35px"/></a>
+
+
+
+
+
 
