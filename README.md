@@ -10,7 +10,7 @@ I ✨ like ✨ to explore new places.
 
 ## 🤝 Connect with me:
 
-<a href=""><img align="left" src="https://raw.githubusercontent.com/manishk169/manishk169/main/5296501_linkedin_network_linkedin logo_icon.png" alt="manish khonde | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/manish-khonde"><img align="left" src="https://raw.githubusercontent.com/manishk169/manishk169/main/5296501_linkedin_network_linkedin logo_icon.png" alt="manish khonde | LinkedIn" width="35px"/></a>
 
 
 
