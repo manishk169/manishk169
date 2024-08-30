@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Manish Khonde** (Full Stack Developer)💻. I like problem solving, travelling, photography📸
+I am **Manish Khonde** a MCA Graduate 💻. I like problem solving, travelling, photography📸
 I ✨ like ✨ to explore new places.
 
 - 🔭 Learner. I’m currently learning full stack java.
