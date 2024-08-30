@@ -12,14 +12,15 @@ I ✨ like ✨ to explore new places.
 
 <a href="https://www.linkedin.com/in/manish-khonde"><img align="left" src="https://raw.githubusercontent.com/manishk169/manishk169/main/5296501_linkedin_network_linkedin logo_icon.png" alt="manish khonde | LinkedIn" width="35px"/></a>
 
+<br>
+<br>
 
 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&Color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
