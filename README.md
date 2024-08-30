@@ -4,7 +4,7 @@ I am **Manish Khonde** a MCA Graduate 💻. I like problem solving, travelling, 
 I ✨ like ✨ to explore new places.
 
 - 🔭 Learner. I’m currently learning full stack java.
-- 💬 Ask me about life advice🤣🤣, tech solution 👩‍💻 , traveling ✈️.
+- 💬  tech solution 👩‍💻 , traveling ✈️.
 
 
 
