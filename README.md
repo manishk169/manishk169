@@ -41,6 +41,7 @@
 
 <hr>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishk169&show_icons=true&locale=en&layout=compact" alt="manishk169" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishk169&show_icons=true&locale=en" alt="manishk169" /></p>
 
