@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishk169&label=Profile%20views&color=0e75b6&style=flat" alt="manishk169" /> </p>
 
-- 🌱 I’m currently learning **Spring, Spring Boot, React**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [https://manishk169.github.io/manish-portfolio/](https://manishk169.github.io/manish-portfolio/)
 
