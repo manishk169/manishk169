@@ -38,7 +38,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> &nbsp; &nbsp; &nbsp;
 <a href = "#" rel="noreferrer"> <img src = "https://img.icons8.com/color/144/spring-logo.png" alt = "spring" width = "47" height = "45"/> &nbsp; &nbsp; &nbsp;
-<a href = "#" rel="noreferrer"> <img src = "https://img.icons8.com/officel/80/spring-logo.png" alt = "spring-boot" width = "47" height = "45"/>
+<a href = "#" rel="noreferrer"> <img src = "https://img.icons8.com/officel/80/spring-logo.png" alt = "spring-boot" width = "47" height = "45"/> &nbsp; &nbsp; &nbsp;
 <a href = "#" rel="noreferrer"> <img src = "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" alt = "react" width = "47" height = "45"/>
 </a>
 </p>
