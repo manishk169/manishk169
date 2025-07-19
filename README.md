@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishk169&label=Profile%20views&color=0e75b6&style=flat" alt="manishk169" /> </p>
 
-- 🌱 I’m currently learning **Angular Js** <a href="#"> <img src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000" alt="angular" height="15" width="16"/></a>
+- 🌱 I’m currently learning **Angular Js** 
 
 - 👨‍💻 All of my projects are available at [https://manishk169.github.io/manish-portfolio/](https://manishk169.github.io/manish-portfolio/)
 
